@@ -44,7 +44,7 @@ if name == 'main':
 
 <!--
 <div align="center">
-  <a href="https://r3fl3x.tk">
+  <a href="https://netanelsite.xyz">
     <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
   </a>
 </div>
@@ -64,7 +64,7 @@ class Netanel {
 export default Netanel;
 ```
 <div align="center">
-  <a href="https://r3fl3x.tk">
+  <a href="https://netanelsite.xyz">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
