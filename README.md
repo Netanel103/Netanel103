@@ -30,13 +30,19 @@ if you wanna join <a href="https://netanelsite.xyz">here is my website</a> :)
 ```python
 class Netanel():
 
-  def init(self):
+  def __init__(self):
     self.name = "Netanel ig";
     self.location = "earth ig";
     self.web = "https://netanelsite.xyz";
 
   def str(self):
     return self.name
+    
+  def location(self):
+    return self.location
+    
+  def web(self):
+    return self.web
 
 if name == 'main':
     me = Netanel()
