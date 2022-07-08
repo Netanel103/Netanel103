@@ -9,7 +9,7 @@
 </h1>
 
 Hi, im Netanel, i was born in 2008 and im a student and discord bots developer!
-if you wanna join <a href="https://netanelsite.xyz">here is my website</a> :)
+Learn More: <a href="https://netanelsite.xyz">here is my website</a> :)
 
 <br>
 
