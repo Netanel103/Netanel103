@@ -8,7 +8,7 @@
   <b>Netanel's Profile</b>
 </h1>
 
-Hi, im Netanel, i was born in 2008 and im a student and discord bots developer!
+Hi, I'm Netanel, I was born in 2008, and I'm a student and Discord bots developer!
 Learn More: <a href="https://netanelsite.xyz">here is my website</a> :)
 
 <br>
